@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+output/
+*_enhanced.mp4
+.DS_Store
